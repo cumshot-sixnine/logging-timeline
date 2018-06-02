@@ -1,9 +1,5 @@
 # logging-timeline
 
-====
-
-Overview
-
 ## Description
 
 logging-timeline is a tool that logging your twitter timeline.
